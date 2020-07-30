@@ -43,7 +43,7 @@
     }
 </script>
 
-<style >
+<style>
     .flip-enter {
         /* transform: rotateY(0deg);   */       /*starting state */
     }
