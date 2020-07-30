@@ -81,7 +81,7 @@
                 return rndNumber;
             },
             onAnswer(isCorrect) {
-                
+                this.$emit('answered', isCorrect);
             }
         },
         created() {
