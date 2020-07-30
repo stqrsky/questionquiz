@@ -44,6 +44,38 @@
 </script>
 
 <style >
-  
+    .flip-enter {
+        
+    }
+
+    .flip-enter-active {
+       
+    }
+
+    .flip-leave {
+        
+    }
+
+    .flip-leave-active {
+        
+    }
+
+    @keyframes flip-out {
+        from {
+            
+        }
+        to {
+            
+        }
+    }
+
+    @keyframes flip-in {
+        from {
+            
+        }
+        to {
+            
+        }
+    }
 </style>
 
